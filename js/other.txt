@@ -1,0 +1,54 @@
+./video/1.mp4
+
+let MCQS = [
+{
+    question: "Who killed Andrew?",
+    choice1: "Anne",
+    choice2: "Mike",
+    choice3: "Otto",
+    answer: 3
+},
+
+{
+    question: "Who's the girl from party?",
+    choice1: "laila",
+    choice2: "christie",
+    choice3: "Natalie",
+    answer: 3
+},
+{
+    question: "Who is Lying?",
+    choice1: "Sarah",
+    choice2: "Lily",
+    choice3: "Annie",
+    answer: 2
+},
+{
+    question: "who is Lying",
+    choice1: "Harry",
+    choice2: "Anne",
+    choice3: "Helen",
+    answer: 2
+},
+{
+    question: "Who killed the Boys?",
+    choice1: "Maid",
+    choice2: "BabySitter",
+    choice3: "Cook",
+    answer: 1
+}];
+
+----1----
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/k4tI0EcJpeuNqhxRdKK?autoplay=1" width="100%" height="100%" allowfullscreen allow="autoplay"> </iframe> </div>
+
+----2----
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/k7p8zOoyx7JnwaxRdKL?autoplay=1" width="100%" height="100%" allowfullscreen allow="autoplay"> </iframe> </div>
+
+----3----
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/k6P5Qn4vUMPH5cxRdKM?autoplay=1" width="100%" height="100%" allowfullscreen allow="autoplay"> </iframe> </div>
+
+----4----
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/k4BWVJLjaNHIrJxRdKN?autoplay=1" width="100%" height="100%" allowfullscreen allow="autoplay"> </iframe> </div>
+
+----5----
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/k7ldzMvKmmN7NUxRdKO?autoplay=1" allowfullscreen allow="autoplay"> </iframe> </div>
